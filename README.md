@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner de Giovanni Vicera" width="40%">
+</p>
+
+
 
 # ¡Hola! 👋 Soy Giovanni Daniel Vicera Ortega
 
